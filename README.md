@@ -1,8 +1,4 @@
 # dev-ahmed
-# DevPoint 🔱
-Source Dev Point to make protection for groups by bots from spam and FLASHING 🔰
-# Team [DevPoint](https://telegram.me/DevPointTeam)
-# Update in source Dev Point ✅
 
 **I added ➕**
 
@@ -20,14 +16,14 @@ Source Dev Point to make protection for groups by bots from spam and FLASHING �
 * * *
 
 ## Commands
-DevPoint has several commands that are only usable at certain ranks.
+Dev-ahmed has several commands that are only usable at certain ranks.
 
 
 ## General Commands
 | Command | Description |
 |:--------|:------------|
 | [#!/]id | Returns group/SuperGroup ID or user id in pm. |
-| [#!/]devpoint | Returns bot information. |
+| [#!/]dev-ahmed | Returns bot information. |
 
 
 ## Private Message Commands
@@ -250,8 +246,8 @@ Each higher status inherits the privileges of the lower status.
 sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev make unzip git redis-server autoconf g++ libjansson-dev libpython-dev expat libexpat1-dev
 
 # Let's install the bot.
-git clone https://github.com/DevPointTeam/DevPoint
-cd DevPoint
+git clone https://github.com/Dev-ahmed/Dev-ahmed
+cd Dev-ahmed
 chmod +x launch.sh
 ./launch.sh install
 ./launch.sh # Enter a phone number & confirmation code.
